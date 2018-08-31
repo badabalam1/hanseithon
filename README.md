@@ -270,9 +270,9 @@ headers
 }
 ```
 
-# `/find/{_id}`
-# `/lost/{_id}`
-## GET
+## `/find/{_id}`
+## `/lost/{_id}`
+### GET
 **Response**
 > 성공했을 때
 ```json
@@ -290,9 +290,9 @@ headers
 }
 ```
 
-# `/findme/{_id}`
-# `/lostme/{_id}`
-## GET
+## `/findme/{_id}`
+## `/lostme/{_id}`
+### GET
 **Response**
 > 성공했을 때
 ```json
@@ -311,9 +311,9 @@ headers
 }
 ```
 
-# `/find/{_id}`
-# `/lost/{_id}`
-## PUT
+## `/find/{_id}`
+## `/lost/{_id}`
+### PUT
 **Request**
 ```json
 {
@@ -349,9 +349,9 @@ headers
 }
 ```
 
-# `/find/{_id}`
-# `/lost/{_id}`
-## DELETE
+## `/find/{_id}`
+## `/lost/{_id}`
+### DELETE
 **Response**
 > 성공했을 때
 ```json
